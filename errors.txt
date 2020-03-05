@@ -1,0 +1,6 @@
+
+2020-02-12 18:42:28 Cannot connect to database.
+2020-02-21 14:48:26 Cannot connect to database.
+2020-02-24 22:41:11 Cannot connect to database.
+2020-02-24 22:41:12 Cannot connect to database.
+2020-02-24 22:41:18 Cannot connect to database.
